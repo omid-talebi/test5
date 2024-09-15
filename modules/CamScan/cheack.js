@@ -12,6 +12,7 @@ const Home = () => {
             </Head>
             <main>
                 <h1>Camera Capture</h1>
+                {/* <button onClick={CameraCapture}>click koooon</button> */}
                 <CameraCapture />
             </main>
         </div>
